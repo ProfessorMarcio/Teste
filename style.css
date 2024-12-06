@@ -3,5 +3,9 @@ body{
 }
 
 img{
-    width: 100%;
+    width: 20%;
+}
+
+h1{
+    color: bisque;
 }
